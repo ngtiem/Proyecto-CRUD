@@ -11,3 +11,12 @@ Esta CRUD fue creada con:
 -JavaScript
 
 ![Proyecto Crud](https://github.com/ngtiem/Proyecto-CRUD/assets/144865020/9e835465-1aff-4e0e-858c-eeb040edff6a)
+
+La Crud que vemos en este proyecto cuenta con las opciones de ingresar datos, editar,modificar  y elimanar los registros que son ingresados por el usuario.
+La Crud se puede utilizar Ej:para registros de empresa de rrhh.
+
+
+![Crud1](https://github.com/ngtiem/Proyecto-CRUD/assets/144865020/ca114b7a-b030-4116-8d6e-a2dd26841a8d)
+
+
+
